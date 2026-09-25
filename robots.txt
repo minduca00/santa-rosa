@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minduca00.github.io/santa-rosa/sitemap.xml
